@@ -1,0 +1,12 @@
+Przydatne linki:
+- ui-patterns.com: wzorce UI
+- dribbble.com: przykłady layotów UX designerów
+- codeply.com: edytor online ze wsparciem dla bibliotek 
+
+Kroki tworzenia strony:
+- wireframing: projektowanie zarysów jej widoków – ale bez interakcji i zwykle też bez zbyt wielu detali
+- mock-up: prototyp aplikacji lub layoutu
+
+Wireframing
+- https://balsamiq.cloud
+- sneakpeekit.com
