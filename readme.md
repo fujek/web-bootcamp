@@ -1,7 +1,8 @@
 Przydatne linki:
 - ui-patterns.com: wzorce UI
 - dribbble.com: przykłady layotów UX designerów
-- codeply.com: edytor online ze wsparciem dla bibliotek 
+- codeply.com: edytor online ze wsparciem dla bibliotek
+- https://colorhunt.co: palety kolorów
 
 Kroki tworzenia strony:
 - wireframing: projektowanie zarysów jej widoków – ale bez interakcji i zwykle też bez zbyt wielu detali
